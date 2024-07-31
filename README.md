@@ -1,7 +1,7 @@
 # Mitch_Devlog
 Dev log for game development and collaboration.
 
-1. Requested assistance with Gargoyle 'retreat' mechanic. Seems to get stuck with somewhere in it's detection.
+1. Requested assistance with Gargoyle 'retreat' mechanic. Seems to get stuck somewhere in it's detection.
 
 2. Continue working on gun library.
     Note: Crashes when cycling weapons.
